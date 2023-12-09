@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <Layout>
-        Shopping App
+       <p>تماس با ما</p>
       </Layout>
     </div>
   );
