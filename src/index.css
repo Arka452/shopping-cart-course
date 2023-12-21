@@ -5,9 +5,14 @@
   font-weight: 400;
  }
 
-body {
+*{
   margin: 0;
-  font-family:'Yekan';
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family:'Yekan', Tahoma, Geneva, Verdana, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }

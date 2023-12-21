@@ -1,10 +1,11 @@
 import Layout from "./components/layouts/Layout";
+import Shopping from "./containers/Shopping/Shopping";
 
 function App() {
   return (
     <div className="App">
       <Layout>
-       <p>تماس با ما</p>
+        <Shopping />
       </Layout>
     </div>
   );
